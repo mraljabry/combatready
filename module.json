@@ -45,6 +45,11 @@
 			"lang": "zh-SHAN",
 			"name": "简体中文 (Chinese [Simplified])",
 			"path": "lang/zh-SHAN.json"
+		},
+		{
+			"lang": "ar",
+			"name": "Arabic",
+			"path": "lang/ar.json"
 		}
 	],
 	"esmodules": [
