@@ -1,0 +1,17 @@
+{
+	"CombatReady.Turn" : "دورك",
+	"CombatReady.Next" : "أنت التالي",
+	"CombatReady.TimeMax" : "أقصى وقت لكل دور",
+	"CombatReady.TimeMaxHint" : "الوقت كل دور بالدقائق، أقصى قيمة هي 30 دقيقة لكل دور.",
+	"CombatReady.DisableNextUp": "إلفاء تنبيه «أنت التالي»",
+	"CombatReady.DisableNextUpHint": "إزالة تنبيه دورك التالي",
+	"CombatReady.DisableTimer": "إلغاء ساعة التوقيت",
+	"CombatReady.DisableTimerHint": "إلغاء خاصية ساعة التوقيت أسفل الشاشة",
+    "CombatReady.ShowEndTurnDialog": "إظهار مربع حوار إنهاء الدور",
+    "CombatReady.ShowEndTurnDialogHint": "إظهار مربع حوار للاعبين في أدوارهم يوفر زر لإنهاء دورهم الحالي",
+	"CombatReady.TickSound": "صوت دقات الساعة",
+	"CombatReady.TickSoundHint": "صنع صوت دقات الساعة عندما يكون وقت اللاعب على وشك الإنتهاء",
+	"CombatReady.Volume": "ارتفاع الصوت",
+	"CombatReady.VolumeHint": "تحديد ارتفاع الصوت العام للوحدة"
+
+}
